@@ -1,5 +1,5 @@
 # Software developer, Blockchain Enthusiast, Jr. WebPentester
-👋 Hi, I’m @IbrahimSeidOumer<br>👀 I’m interested in Software Engineering, Blockchain development, and Ethical Hacking<br>🌱 I’m currently looking for Opportunity to land my first tech job<br>💞️ I’m looking to collaborate on Bug bounty programs, a person who wills to mentor me on BugHunting & web pentesting.<br>📫 How to reach me 📧seidibrahim827@gmail.com
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I’m @IbrahimSeidOumer<br>👀 I’m interested in Software Engineering, Blockchain development, and Ethical Hacking<br>🌱 I’m currently looking for Opportunity to land my first tech job<br>💞️ I’m looking to collaborate on Bug bounty programs, a person who wills to mentor me on BugHunting & web pentesting.<br>📫 How to reach me 📧seidibrahim827@gmail.com
 
 
 ## 🌐 Socials:
